@@ -1,2 +1,3 @@
-# base
-Base repository for supporting Tenants in PythonEDA applications
+# PythonEDA-Tenant/base
+
+This package provides Tenant support for [PythonEDA](https://github.com/pythoneda/base "pythoneda/base")-based applications.
